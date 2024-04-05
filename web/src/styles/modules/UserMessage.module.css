@@ -1,0 +1,10 @@
+.wrapper {
+    max-width: 345px;
+    margin: 10px;
+    align-self: flex-end;
+    color: black;
+    background-color: lightblue !important;
+    margin-left: auto;
+    text-align: left;
+    border-radius: 60px 50px 10px 60px !important;
+}
